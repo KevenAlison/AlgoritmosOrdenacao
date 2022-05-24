@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1653369575 source:c:\users\keven alison\documents\codeblocks\algoritmosordenacao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+
